@@ -1,5 +1,13 @@
 # Общие материалы
 
+1. Git
+    1. [CheatSheet](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/)
+    1. Что происходит?!
+        1. [Visualizing](http://git-school.github.io/visualizing-git/)
+        1. [LearnBranching](https://learngitbranching.js.org/)
+    1. [Book](https://git-scm.com/book/ru/v2)
+1. Shell
+    1. [Basics](https://www.nublue.co.uk/blog/16-really-useful-shell-commands-for-web-developers/)
 1. Чистый код
 1. Принципы:
     1. [DRY](https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself)
