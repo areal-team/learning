@@ -1,5 +1,6 @@
 # Frontend - направления развития
 
+1. [Как работает JavaScript](https://webdevblog.ru/kak-rabotaet-javascript/) (*must read!*)
 1. JavaScript на высоком уровне. 
 1. [Event loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 1. [Паттерн Flux](https://habr.com/company/hexlet/blog/268249/). Есть разные реализации Redux, MobX, Vuex.
