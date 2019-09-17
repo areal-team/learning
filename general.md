@@ -26,6 +26,7 @@
 1. Чистая архитектура
 1. DDD
 1. [KISS Architecture. От микросервиса до монолита](https://habr.com/ru/post/440034/)
+1. [О современных фронтенд архитектурах](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 
 ## Тестирование
 
